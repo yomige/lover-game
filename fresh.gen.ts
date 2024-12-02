@@ -5,19 +5,18 @@
 import * as $0 from "./routes/171717.tsx";
 import * as $1 from "./routes/_404.tsx";
 import * as $2 from "./routes/_app.tsx";
-import * as $3 from "./routes/about - 副本.tsx";
-import * as $4 from "./routes/about.tsx";
-import * as $5 from "./routes/ai.tsx";
-import * as $6 from "./routes/aiok.tsx";
-import * as $7 from "./routes/card.tsx";
-import * as $8 from "./routes/card_version.tsx";
-import * as $9 from "./routes/custom.tsx";
-import * as $10 from "./routes/greet/[name].tsx";
-import * as $11 from "./routes/index.tsx";
-import * as $12 from "./routes/member.tsx";
-import * as $13 from "./routes/position.tsx";
-import * as $14 from "./routes/positions.tsx";
-import * as $15 from "./routes/unopen.tsx";
+import * as $3 from "./routes/about.tsx";
+import * as $4 from "./routes/ai.tsx";
+import * as $5 from "./routes/aiok.tsx";
+import * as $6 from "./routes/card.tsx";
+import * as $7 from "./routes/card_version.tsx";
+import * as $8 from "./routes/custom.tsx";
+import * as $9 from "./routes/greet/[name].tsx";
+import * as $10 from "./routes/index.tsx";
+import * as $11 from "./routes/member.tsx";
+import * as $12 from "./routes/position.tsx";
+import * as $13 from "./routes/positions.tsx";
+import * as $14 from "./routes/unopen.tsx";
 import * as $$0 from "./islands/position-list.tsx";
 import * as $$1 from "./islands/vip.tsx";
 
@@ -26,19 +25,18 @@ const manifest = {
     "./routes/171717.tsx": $0,
     "./routes/_404.tsx": $1,
     "./routes/_app.tsx": $2,
-    "./routes/about - 副本.tsx": $3,
-    "./routes/about.tsx": $4,
-    "./routes/ai.tsx": $5,
-    "./routes/aiok.tsx": $6,
-    "./routes/card.tsx": $7,
-    "./routes/card_version.tsx": $8,
-    "./routes/custom.tsx": $9,
-    "./routes/greet/[name].tsx": $10,
-    "./routes/index.tsx": $11,
-    "./routes/member.tsx": $12,
-    "./routes/position.tsx": $13,
-    "./routes/positions.tsx": $14,
-    "./routes/unopen.tsx": $15,
+    "./routes/about.tsx": $3,
+    "./routes/ai.tsx": $4,
+    "./routes/aiok.tsx": $5,
+    "./routes/card.tsx": $6,
+    "./routes/card_version.tsx": $7,
+    "./routes/custom.tsx": $8,
+    "./routes/greet/[name].tsx": $9,
+    "./routes/index.tsx": $10,
+    "./routes/member.tsx": $11,
+    "./routes/position.tsx": $12,
+    "./routes/positions.tsx": $13,
+    "./routes/unopen.tsx": $14,
   },
   islands: {
     "./islands/position-list.tsx": $$0,
