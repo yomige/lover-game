@@ -17,7 +17,7 @@ export default function About() {
             </a>
           </div>
 
-        <div class="max-auto mt-8 max-w-lg leading-8 text-gray-900 my-4 flex-col items-center justify-center">
+        <div class="max-auto mt-8 px-4 max-w-lg leading-8 text-gray-900 my-4 flex-col items-center justify-center">
           <div class="text-lg text-gray-500">关注公众号</div>
           <img src="/jiaohuazi_gzh.jpg" class="my-4 max-w-xs rounded-lg" />
           <div class="text-lg text-gray-500">获取识别码</div>
