@@ -103,7 +103,7 @@ let positions = [
 
 $(function () {
     let vip = localStorage.getItem("vip");
-    let length = 100;
+    let length = 10;
     if (vip) {
         length = 100;
         $("#position-count").text(100);
