@@ -8,7 +8,7 @@ export default function Footer(props: JSX.HTMLAttributes<HTMLButtonElement>) {
 			<div class="text-center mt-8 p-2">
 				<a class="bg-red-700 border rounded py-2 px-4 font-black" href="/about">关于</a>
 			</div>
-			<div class="text-center mt-8 text-pink-100  text-sm">公众号：独立开发乞讨日记</div>
+			<div class="text-center mt-8 text-pink-100  text-sm">仅供娱乐~</div>
 		</>
 	);
 }
