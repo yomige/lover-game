@@ -22,7 +22,7 @@ export default function Home() {
           <a href="/member" class="block px-4 my-4 border rounded bg-pink-600 underline w-60">会员空间</a>
           <a href="/ai" class="block px-4 my-4 border rounded bg-pink-600 underline w-60">AI伴侣</a>*/}
         </div>
-        <div class="my-8">支持android，ios，平板，电脑等设备访问，欢迎关注公众号：独立开发乞讨日记</div>
+        <div class="my-8">支持android，ios，平板，电脑等设备访问</div>
       </div>
       <Footer></Footer>
     </div>
