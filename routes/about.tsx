@@ -18,13 +18,13 @@ export default function About() {
           </div>
 
         <div class="max-auto mt-8 px-4 max-w-lg leading-8 text-gray-900 my-4 flex-col items-center justify-center">
-          <div class="text-lg text-gray-500">关注小红书</div>
-          <img src="/xiaohongshu_1.png" class="my-4 max-w-xs rounded-lg" />
+          <div class="text-lg text-gray-500">微信扫码获取最新识别码</div>
+          <img src="/qun-10.png" class="my-4 max-w-xs rounded-lg" />
           <div class="text-lg text-gray-500">获取识别码</div>
-          <div class="my-4">识别码放在评论区了，评论区的数字就是</div>
+          <div class="my-4">进群获取</div>
           <div class="text-lg text-gray-500">解锁VIP姿势</div>
           <div>
-          <div class="my-4">识别码放在评论区了，评论区的数字就是</div>
+          <div class="my-4">进群获取</div>
           <input class="shadow appearance-none border rounded w-full py-1 px-3 md:w-2/3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" id="lockCode" type="text" placeholder="输入识别码">
           </input>
 
