@@ -19,6 +19,7 @@ export default function About() {
 
         <div class="max-auto mt-8 px-4 max-w-lg leading-8 text-gray-900 my-4 flex-col items-center justify-center">
           <div class="text-lg text-gray-500">微信扫码获取最新识别码</div>
+          最新互联网福利资源分享交流。
           <img src="/wechat-account.png.png" class="my-4 max-w-xs rounded-lg" />
           <div class="text-lg text-gray-500">获取识别码</div>
           <div class="my-4">添加微信获取(备注：识别码)</div>
