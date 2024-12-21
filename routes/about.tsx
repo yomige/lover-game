@@ -21,10 +21,10 @@ export default function About() {
           <div class="text-lg text-gray-500">互联网福利资源分享交流</div>
           <img src="/wechat-account.png" class="my-4 max-w-xs rounded-lg" />
           <div class="text-lg text-gray-500">获取识别码</div>
-          <div class="my-4">添加微信获取(备注：识别码)</div>
+          <div class="my-4">添加上方微信获取(备注：识别码)</div>
           <div class="text-lg text-gray-500">解锁VIP姿势</div>
           <div>
-          <div class="my-4">添加微信获取(备注：识别码)</div>
+          <div class="my-4">添加上方微信获取(备注：识别码)</div>
           <input class="shadow appearance-none border rounded w-full py-1 px-3 md:w-2/3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" id="lockCode" type="text" placeholder="输入识别码">
           </input>
 
