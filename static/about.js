@@ -2,7 +2,7 @@ window.unLockPositions = () => {
 
   let lockCode = $("#lockCode").val()
 
-  if (lockCode !='251233') {    
+  if (lockCode !='250118') {    
     alert('识别码错误')
     return
   }

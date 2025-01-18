@@ -8,3 +8,4 @@
 #static/positions/*
 # Fresh build directory
 _fresh/
+.DS_Store
