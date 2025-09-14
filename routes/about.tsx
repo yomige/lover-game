@@ -18,17 +18,25 @@ export default function About() {
           </div>
 
         <div class="max-auto mt-8 px-4 max-w-lg leading-8 text-gray-900 my-4 flex-col items-center justify-center">
-          <div class="text-lg text-gray-500">互联网福利资源分享交流</div>
-          <img src="/wechat-account.png" class="my-4 max-w-xs rounded-lg" />
-          <div class="text-lg text-gray-500">获取识别码</div>
-          <div class="my-4">更新日期：2025年2月4日，添加上方微信获取(备注：识别码)，免费获取，收费的都是骗子</div>
-          <div class="text-lg text-gray-500">解锁VIP姿势</div>
-          <div>
-          <div class="my-4">更新日期：2025年2月4日，添加上方微信获取(备注：识别码)，免费获取，收费的都是骗子</div>
-          <input class="shadow appearance-none border rounded w-full py-1 px-3 md:w-2/3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" id="lockCode" type="text" placeholder="输入识别码">
-          </input>
 
-          <button type="button" onClick="unLockPositions()"  class="bg-blue-500 hover:bg-blue-700 text-white font-bold my-4 px-4 rounded">解锁</button></div>
+          <div class="text-lg text-gray-500">互联网福利资源分享交流群组</div>
+          <img src="/xiaohongshu-group.png" class="my-4 max-w-xs rounded-lg" />
+
+          <div class="text-lg text-gray-500">获取识别码</div>
+          <div class="my-4">更新日期：2025年9月14日，添加上方群组获取(备注：识别码)，免费获取，收费的都是骗子</div>
+
+          <div class="text-lg text-gray-500">解锁VIP姿势</div>
+          <div class="my-4">更新日期：2025年9月14日，添加上方微信获取(备注：识别码)，免费获取，收费的都是骗子</div>
+
+          <div>
+            <input class="shadow appearance-none border rounded w-full py-1 px-3 md:w-2/3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" id="lockCode" type="text" placeholder="输入识别码">
+            </input>
+            <button type="button" onClick="unLockPositions()"  class="bg-blue-500 hover:bg-blue-700 text-white font-bold my-4 px-4 rounded">解锁</button>
+          </div>
+
+          <div class="text-lg text-gray-500">防失效</div>
+          <div class="my-4">二维码过期联系下方账号获取</div>
+          <img src="/xiaohongshu-qrcode.jpg" class="my-4 max-w-xs rounded-lg" />
         </div>
         </div>
 
